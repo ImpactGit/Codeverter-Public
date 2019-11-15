@@ -1,6 +1,6 @@
 # CODEVERTER
 
-You can use this Excel tool to convert industry and sector codes. It can accept inputs according to the following:
+You can use this Excel tool to convert industry and sector codes. It can accept inputs according to the following code libraries:
 
 ANZSIC (Australia and New Zealand) \
 ISIC (United Nations) \
