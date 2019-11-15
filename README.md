@@ -17,7 +17,7 @@ ISIC (United Nations)
 The Excel tool was prepared by the Frankfurt School of Finance and Management as part of the e-learning course Certified Expert in Sustainable Finance (CESFi)
 https://www.frankfurt-school.de/en/home/international-advisory-services/fsdf-e-campus/expert-sustainable-finance
 
-This tool is provided "as is", without any warrantee about accuracy or completenes.
+This tool is provided "as is", without any warrantee about accuracy or completeness.
  
 -----
 
