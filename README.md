@@ -2,14 +2,14 @@
 
 You can use this Excel tool to convert industry and sector codes. It can accept inputs according to the following:
 
-ANZSIC (Australia and New Zealand)
-ISIC (United Nations)
-NACE (European Union)
+ANZSIC (Australia and New Zealand) \
+ISIC (United Nations) \
+NACE (European Union) \
 NAICS (United States of America)
 
 The results are displayed according to:
 
-ISIC (United Nations)
+ISIC (United Nations) \
 & any related NACE code(s), which can be used to look up what reporting requirements (if any) are relevant according to the EU Taxonomy for Sustainable Finance.
 
 -----
